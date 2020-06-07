@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bca9440-a4bc-4083-a544-d12aee57bcc9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cwtf9uCIjoOrI9VuQIwOZFzQM6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\HandsNN\output" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartNetworkKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="HandsNN" />
+      <option name="VM_PARAMETERS" value="-Xmx1024m -Xms256m" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="StartNetworkKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.StartNetworkKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bca9440-a4bc-4083-a544-d12aee57bcc9" name="Default Changelist" comment="" />
+      <created>1591451584411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591451584411</updated>
+      <workItem from="1591451587034" duration="8926000" />
+      <workItem from="1591465121038" duration="5101000" />
+      <workItem from="1591480179640" duration="2379000" />
+      <workItem from="1591531207161" duration="2958000" />
+      <workItem from="1591563231994" duration="8018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591465925602">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1591465925602" />
+    <state x="421" y="117" key="FileChooserDialogImpl" timestamp="1591466887439">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="117" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1591466887439" />
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom" timestamp="1591571261396">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1591571261396" />
+    <state width="1237" height="210" key="GridCell.Tab.0.center" timestamp="1591571261396">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1591571261396" />
+    <state width="1237" height="210" key="GridCell.Tab.0.left" timestamp="1591571261396">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1591571261396" />
+    <state width="1237" height="210" key="GridCell.Tab.0.right" timestamp="1591571261396">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1591571261396" />
+    <state width="1237" height="210" key="GridCell.Tab.1.bottom" timestamp="1591571261396">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1591571261396" />
+    <state width="1237" height="210" key="GridCell.Tab.1.center" timestamp="1591571261396">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1591571261396" />
+    <state width="1237" height="210" key="GridCell.Tab.1.left" timestamp="1591571261396">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1591571261396" />
+    <state width="1237" height="210" key="GridCell.Tab.1.right" timestamp="1591571261396">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="210" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1591571261396" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1591465912370">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1591465912370" />
+    <state x="93" y="93" width="1095" height="535" key="dock-window-1" timestamp="1591570536635">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="93" y="93" width="1095" height="535" key="dock-window-1/0.0.1280.720@0.0.1280.720" timestamp="1591570536635" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/NeuralNetwork.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
